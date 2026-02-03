@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0009-palindrome-number) |
 | [0282-expression-add-operators](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0313-super-ugly-number) |
 | [0365-water-and-jug-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0365-water-and-jug-problem) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -324,4 +325,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0449-serialize-and-deserialize-bst) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
