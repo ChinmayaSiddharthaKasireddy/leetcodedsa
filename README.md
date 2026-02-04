@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0391-perfect-rectangle) |
 | [0406-queue-reconstruction-by-height](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0406-queue-reconstruction-by-height) |
+| [0414-third-maximum-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0419-battleships-in-a-board) |
 | [0436-find-right-interval](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0436-find-right-interval) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0218-the-skyline-problem) |
 | [0389-find-the-difference](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0406-queue-reconstruction-by-height) |
+| [0414-third-maximum-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0436-find-right-interval) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0611-valid-triangle-number) |
