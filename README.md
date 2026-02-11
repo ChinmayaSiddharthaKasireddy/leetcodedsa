@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0343-integer-break) |
 ## Tree
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0313-super-ugly-number) |
+| [0343-integer-break](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0365-water-and-jug-problem) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0391-perfect-rectangle) |
