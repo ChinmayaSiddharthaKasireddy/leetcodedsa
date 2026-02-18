@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0312-burst-balloons](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0313-super-ugly-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0318-maximum-product-of-word-lengths) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0449-serialize-and-deserialize-bst](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0449-serialize-and-deserialize-bst) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0037-sudoku-solver) |
 | [0289-game-of-life](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0419-battleships-in-a-board) |
@@ -369,4 +372,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
