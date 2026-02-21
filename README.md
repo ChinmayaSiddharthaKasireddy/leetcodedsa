@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0312-burst-balloons](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0313-super-ugly-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0322-coin-change) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0436-find-right-interval](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0611-valid-triangle-number) |
 ## Two Pointers
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Heap (Priority Queue)
 |  |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Trie
 |  |
 | ------- |
@@ -321,11 +325,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0406-queue-reconstruction-by-height) |
 ## Line Sweep
 |  |
@@ -336,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Union Find
 |  |
 | ------- |
