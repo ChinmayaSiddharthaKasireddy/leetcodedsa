@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0624-maximum-distance-in-arrays) |
 | [0630-course-schedule-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0624-maximum-distance-in-arrays) |
 | [0630-course-schedule-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## String
 |  |
 | ------- |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -312,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Merge Sort
 |  |
 | ------- |
