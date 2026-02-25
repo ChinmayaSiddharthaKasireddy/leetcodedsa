@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0472-concatenated-words) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0611-valid-triangle-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0472-concatenated-words](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0472-concatenated-words) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0621-task-scheduler) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0449-serialize-and-deserialize-bst](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0449-serialize-and-deserialize-bst) |
+| [0472-concatenated-words](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0472-concatenated-words) |
 ## Sliding Window
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0343-integer-break) |
+| [0472-concatenated-words](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0472-concatenated-words) |
 ## Tree
 |  |
 | ------- |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0472-concatenated-words) |
 | [0547-number-of-provinces](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
@@ -327,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0386-lexicographical-numbers) |
+| [0472-concatenated-words](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0472-concatenated-words) |
 ## Binary Indexed Tree
 |  |
 | ------- |
