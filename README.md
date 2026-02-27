@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0365-water-and-jug-problem) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0010-regular-expression-matching) |
+| [0326-power-of-three](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0326-power-of-three) |
 ## Divide and Conquer
 |  |
 | ------- |
