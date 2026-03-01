@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0624-maximum-distance-in-arrays) |
 | [0630-course-schedule-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0646-maximum-length-of-pair-chain) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0624-maximum-distance-in-arrays) |
 | [0630-course-schedule-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0646-maximum-length-of-pair-chain) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0646-maximum-length-of-pair-chain) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0343-integer-break) |
 | [0472-concatenated-words](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0472-concatenated-words) |
+| [0646-maximum-length-of-pair-chain](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0646-maximum-length-of-pair-chain) |
 ## Tree
 |  |
 | ------- |
