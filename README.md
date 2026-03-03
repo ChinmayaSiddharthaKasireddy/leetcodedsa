@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0472-concatenated-words) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0611-valid-triangle-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## String
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0449-serialize-and-deserialize-bst](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0449-serialize-and-deserialize-bst) |
+| [0451-sort-characters-by-frequency](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0472-concatenated-words) |
 ## Sliding Window
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0621-task-scheduler) |
 ## Backtracking
 |  |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0218-the-skyline-problem) |
 | [0407-trapping-rain-water-ii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0407-trapping-rain-water-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -400,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0304-range-sum-query-2d-immutable) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
