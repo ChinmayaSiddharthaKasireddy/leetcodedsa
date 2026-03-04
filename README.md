@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0398-random-pick-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0451-sort-characters-by-frequency) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0365-water-and-jug-problem) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0391-perfect-rectangle) |
+| [0398-random-pick-index](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0398-random-pick-index) |
 ## Design
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0398-random-pick-index](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0398-random-pick-index) |
 ## Queue
 |  |
 | ------- |
@@ -409,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0451-sort-characters-by-frequency) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
