@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0218-the-skyline-problem) |
 | [0228-summary-ranges](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0228-summary-ranges) |
 | [0275-h-index-ii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0275-h-index-ii) |
+| [0284-peeking-iterator](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0303-range-sum-query-immutable) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0284-peeking-iterator](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0341-flatten-nested-list-iterator) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Iterator
 |  |
 | ------- |
+| [0284-peeking-iterator](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0341-flatten-nested-list-iterator) |
 ## Bit Manipulation
 |  |
