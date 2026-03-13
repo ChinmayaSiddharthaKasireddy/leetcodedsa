@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0357-count-numbers-with-unique-digits) |
 | [0472-concatenated-words](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0472-concatenated-words) |
 | [0646-maximum-length-of-pair-chain](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0646-maximum-length-of-pair-chain) |
 ## Tree
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0365-water-and-jug-problem) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0391-perfect-rectangle) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0357-count-numbers-with-unique-digits) |
 ## Breadth-First Search
 |  |
 | ------- |
