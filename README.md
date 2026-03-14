@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [0649-dota2-senate](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0649-dota2-senate) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0472-concatenated-words) |
+| [0649-dota2-senate](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0649-dota2-senate) |
 ## Sliding Window
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0649-dota2-senate) |
 ## Counting
 |  |
 | ------- |
