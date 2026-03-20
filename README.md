@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0169-majority-element) |
 | [0218-the-skyline-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0218-the-skyline-problem) |
 | [0228-summary-ranges](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0228-summary-ranges) |
 | [0275-h-index-ii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0275-h-index-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0169-majority-element) |
 | [0218-the-skyline-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0218-the-skyline-problem) |
 | [0389-find-the-difference](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0406-queue-reconstruction-by-height) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0169-majority-element) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0389-find-the-difference) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0621-task-scheduler) |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0169-majority-element) |
 | [0218-the-skyline-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0315-count-of-smaller-numbers-after-self) |
