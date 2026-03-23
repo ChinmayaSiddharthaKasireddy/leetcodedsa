@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0365-water-and-jug-problem) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0318-maximum-product-of-word-lengths) |
+| [0342-power-of-four](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0389-find-the-difference) |
 ## Database
 |  |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0010-regular-expression-matching) |
 | [0326-power-of-three](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
