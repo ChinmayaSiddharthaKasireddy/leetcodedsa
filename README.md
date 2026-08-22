@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0472-concatenated-words) |
 | [0649-dota2-senate](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0649-dota2-senate) |
+| [2129-capitalize-the-title](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/2129-capitalize-the-title) |
 ## Sliding Window
 |  |
 | ------- |
