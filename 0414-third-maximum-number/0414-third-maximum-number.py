@@ -1,21 +1,18 @@
-class Solution(object):
-    def thirdMax(self, nums):
-        first = second = third = None
-        
-        for n in nums:
-            if n == first or n == second or n == third:
+class Solution:
+    def thirdMax(self, nums: List[int]) -> int:
+        first = second = third = float('-inf')
+        for num in nums:
+            if  num in (first, second, third):
                 continue
-            
-            if first is None or n > first:
+            if num > first:
                 third = second
                 second = first
-                first = n
-            elif second is None or n > second:
+                first = num
+            elif num > second:
                 third = second
-                second = n
-            elif third is None or n > third:
-                third = n
-        
-        return third if third is not None else first
-
-        
+                second = num
+            elif num > third:
+                third = num
+        if third == float('-inf'):
+            return first
+        return third        
