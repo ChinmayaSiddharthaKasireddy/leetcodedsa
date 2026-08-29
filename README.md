@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [1732-find-the-highest-altitude](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
 |  |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0304-range-sum-query-2d-immutable) |
+| [1732-find-the-highest-altitude](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/1732-find-the-highest-altitude) |
 ## Bucket Sort
 |  |
 | ------- |
