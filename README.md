@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0218-the-skyline-problem) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0407-trapping-rain-water-ii) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/1920-build-array-from-permutation) |
