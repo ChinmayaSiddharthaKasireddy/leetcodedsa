@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0218-the-skyline-problem) |
 | [0228-summary-ranges](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0228-summary-ranges) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0189-rotate-array) |
 | [0282-expression-add-operators](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0313-super-ugly-number) |
