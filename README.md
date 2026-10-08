@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0388-longest-absolute-file-path) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1544-make-the-string-great](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/1544-make-the-string-great) |
 ## Greedy
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0472-concatenated-words) |
 | [0649-dota2-senate](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0649-dota2-senate) |
+| [1544-make-the-string-great](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/1544-make-the-string-great) |
 | [2129-capitalize-the-title](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/2129-capitalize-the-title) |
 ## Sliding Window
 |  |
