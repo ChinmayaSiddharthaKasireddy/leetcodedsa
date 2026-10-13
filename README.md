@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0242-valid-anagram](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0282-expression-add-operators) |
@@ -487,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
