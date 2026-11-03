@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0218-the-skyline-problem) |
 | [0228-summary-ranges](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0228-summary-ranges) |
 | [0275-h-index-ii](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0289-game-of-life) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0611-valid-triangle-number) |
