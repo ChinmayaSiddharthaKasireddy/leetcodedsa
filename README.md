@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0234-palindrome-linked-list) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0125-valid-palindrome](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/siddharthakasireddy/leetcodedsa/tree/master/0301-remove-invalid-parentheses) |
